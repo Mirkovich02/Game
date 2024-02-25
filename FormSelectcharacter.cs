@@ -43,6 +43,7 @@ namespace Game
         private void pbchooseStreetFighter_Click(object sender, EventArgs e)
         {
             _logic.choosePlayer(1, this);
+
         }
 
         private void pbChoosePatrick_Click(object sender, EventArgs e)

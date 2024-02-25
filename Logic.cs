@@ -75,7 +75,6 @@ namespace Game
         {
             pbArrayLeft[player1Character - 1].Visible = true;
             pbArrayLeft[player2Character - 1].Visible = true;
-
         }
         }
     }
