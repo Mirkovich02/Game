@@ -16,10 +16,10 @@ namespace Game
         public void exit()
             =>Application.Exit();
 
-        private int generateZahl(int num)
+        public int generateZahl(int num)
         {
             Random r = new Random();
-            int random = r.Next(0, num);
+            int random = r.Next(1, num);
             return random;
         }
         public void removePoints(KryptonProgressBar kryptonProgressBar, Label label)

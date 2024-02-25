@@ -20,6 +20,8 @@ namespace Game
 
         private void bRandom_Click(object sender, EventArgs e)
         {
+            Logic.player1Character = _logic.generateZahl(4);
+            Logic.player2Character = _logic.generateZahl(4);
             var form1 = new Form1();
             form1.Show();
             this.Hide();
@@ -35,11 +37,6 @@ namespace Game
             _logic.choosePlayer(4, this);
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void pbchooseStreetFighter_Click(object sender, EventArgs e)
         {
             _logic.choosePlayer(1, this);
@@ -49,6 +46,10 @@ namespace Game
         private void pbChoosePatrick_Click(object sender, EventArgs e)
         {
             _logic.choosePlayer(3, this);
+        }
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

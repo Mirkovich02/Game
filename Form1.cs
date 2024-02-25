@@ -9,9 +9,6 @@ namespace Game
         public int currPlayer = 1;
         PictureBox[] pbArray1 = new PictureBox[4];
         PictureBox[] pbArray2 = new PictureBox[4];
-
-        //{ pbStreetFighterLeft, pbMagierLeft, pbPatrikLeft, pbGoku };
-        //{ pbStreetFighterRight, pbMagierRight, pbPatrikRight, pbGokuRight };
         public Form1()
         {
             InitializeComponent();

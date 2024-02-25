@@ -208,7 +208,7 @@ namespace Game
             // 
             pbStreetFighterRight.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             pbStreetFighterRight.BackColor = Color.Transparent;
-            pbStreetFighterRight.BackgroundImage = Properties.Resources.AnständigerLeft_removebg_preview;
+            pbStreetFighterRight.BackgroundImage = Properties.Resources.AnständigerRight_removebg_preview;
             pbStreetFighterRight.BackgroundImageLayout = ImageLayout.Zoom;
             pbStreetFighterRight.Location = new Point(775, 325);
             pbStreetFighterRight.Name = "pbStreetFighterRight";
@@ -252,7 +252,6 @@ namespace Game
             ClientSize = new Size(1207, 679);
             Controls.Add(pbGoku);
             Controls.Add(pbMagierLeft);
-            Controls.Add(pbGokuRight);
             Controls.Add(pbStreetFighterRight);
             Controls.Add(pbPatrikRight);
             Controls.Add(pbStreetFighterLeft);
@@ -264,6 +263,7 @@ namespace Game
             Controls.Add(pbMagierRight);
             Controls.Add(bSurrender);
             Controls.Add(pbPatrikLeft);
+            Controls.Add(pbGokuRight);
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)pbPatrikLeft).EndInit();

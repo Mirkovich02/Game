@@ -124,14 +124,17 @@
   <data name="dcb62069f3857cc8edcfd98e7c27e942" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\dcb62069f3857cc8edcfd98e7c27e942.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="AnständigerLeft-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\AnständigerLeft-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="cocWizzardRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\cocWizzardRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="codOperatorRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\codOperatorRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="goku" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\assets\goku.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cocWizzardLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\cocWizzardLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="backgroundImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\backgroundImage.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,10 +148,10 @@
   <data name="patrickRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\assets\patrickRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cocWizzardLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\assets\cocWizzardLeft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="goku" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\goku.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AnständigerLeft-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\assets\AnständigerLeft-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="AnständigerRight-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\assets\AnständigerRight-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
